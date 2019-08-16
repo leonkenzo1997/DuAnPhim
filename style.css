@@ -1,0 +1,23 @@
+.form-inline .form-control {
+    width: 500px;
+}
+
+.search_contact {
+    display: flex;
+    justify-content: space-around;
+}
+
+.header_contact .item_contact {
+    display: inline;
+    
+}
+
+.item_contact p{
+    display: inline;
+    
+}
+
+.item_contact {
+    margin: 0 10px;
+}
+
